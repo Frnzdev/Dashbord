@@ -19,7 +19,7 @@ export default function MobileSideBar() {
       >
         <Sheet>
           <SheetTrigger asChild>
-            <Button size="icon" variant="outline" className="sm:hidden">
+            <Button size="icon" variant="outline" className="sm:hidden mt-2">
               <PanelBottom className="w-5 h-5" />
               <span className="sr-only">ABRIR / fechar menu</span>
             </Button>
