@@ -48,7 +48,7 @@ export default function SectionCards() {
             </CardTitle>
             <Percent className="ml-auto w-4 h-4" />
           </div>
-          <CardDescription>Total pedidos hoje0</CardDescription>
+          <CardDescription>Total pedidos hoje:</CardDescription>
         </CardHeader>
         <CardContent>
           <p className="text-base sm:text-lg font-bold">932</p>
